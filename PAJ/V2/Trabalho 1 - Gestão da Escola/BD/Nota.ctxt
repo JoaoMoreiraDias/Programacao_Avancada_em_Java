@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=cadeira\ nota
+comment0.target=Nota(Cadeira,\ double)
+comment1.params=
+comment1.target=Cadeira\ getCadeira()
+comment2.params=
+comment2.target=double\ getNota()
+comment3.params=cadeira
+comment3.target=void\ setCadeira(Cadeira)
+comment4.params=nota
+comment4.target=void\ setNota(double)
+numComments=5

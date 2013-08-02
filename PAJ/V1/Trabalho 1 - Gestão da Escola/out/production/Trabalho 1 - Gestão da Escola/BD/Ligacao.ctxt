@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.sql.Connection\ getConnection()
+comment1.params=
+comment1.target=void\ createConnection()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=java.sql.Statement\ createStatement()
+comment4.params=
+comment4.target=void\ closeLigacao()
+numComments=5

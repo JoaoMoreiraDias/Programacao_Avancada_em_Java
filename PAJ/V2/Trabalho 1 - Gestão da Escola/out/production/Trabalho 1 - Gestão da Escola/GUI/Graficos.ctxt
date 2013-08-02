@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=Graficos(int)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=
+comment2.target=double\ getMax()
+comment3.params=array
+comment3.target=double\ max(double[])
+comment4.params=array
+comment4.target=double\ min(double[])
+comment5.params=m
+comment5.target=double\ mean(double[])
+comment6.params=m
+comment6.target=double\ median(double[])
+comment7.params=id
+comment7.target=void\ setId(int)
+comment8.params=id
+comment8.target=void\ main(int)
+numComments=9

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cria()
+comment1.params=
+comment1.target=void\ createTableAluno()
+comment2.params=
+comment2.target=void\ createTableCadeira()
+comment3.params=
+comment3.target=void\ createTableCurso()
+comment4.params=
+comment4.target=void\ createTableCadeiraCurso()
+comment5.params=
+comment5.target=void\ createTableAlunoCadeira()
+comment6.params=
+comment6.target=void\ createConstraints()
+comment7.params=
+comment7.target=void\ exemplos()
+comment8.params=
+comment8.target=void\ dropTabelas()
+numComments=9

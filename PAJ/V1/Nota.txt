@@ -1,0 +1,1 @@
+A unica differença é que, so quando o programa fechado e reaberto, é que as diferanças são visualisadas.
